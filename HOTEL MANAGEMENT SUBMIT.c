@@ -15,7 +15,6 @@ void service();
 
 int total=0;
 
-
 struct CustomerDetails
 {
 char roomnumber[10];
